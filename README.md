@@ -1,6 +1,19 @@
-[![UCEUMCIE's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+# Welcome Traveler
 
-Roadmap: 
+Hey, my name is Alex. I am a software developer enthusiast. When I'm off work, I like to write blog on topics related to bleeding edge tech and staff related to my field of expertise, be it authentication, web development or dev-ops. See my blog at dev.uceumice.com. If you are here just for the purpose of getting your job done, then check out the catalog of repos which contain a more hands-on approach to the related topic.
+
+Ad astra abyssosque, Traveler✨
+
+## Planned Blogs
+- Directus
+  - Integrating Directus with 3rd Party Authentication Providers
+  - K8S+GCP+Terraform | Scalable Directus Fundamentals
+    - [1] Get Started (Very) Quickly
+    - [2] Understanding Scalability
+      - Caching + Rate Limiting + Email Queue  
+    - [3] Installing Extensions
+
+## Projects Roadmap: 
 - Remix Run 
   - Loader/Action Decorator Pattern
     - @Context, @Request, @Param/s
