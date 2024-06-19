@@ -7,8 +7,8 @@ I'm Alex. I am a cyber security undergrad, software developer and tech enthusias
 
 ### Planned Blog Topics
 
-- Kubernetes Configuration on NixOS
-- Inner Working of Cloudfalre Tunnels
+- Spinning Kubernetes Cluster on a NixOS machine
+- Scriptables to help monitoring various sensors
 
 ### Planned Projects
 
