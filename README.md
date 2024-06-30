@@ -1,4 +1,4 @@
-# [Hello](https://matias.me/nsfw)
+# [Hello](https://www.omfgdogs.com)
 
 I'm Alex - a cyber security undergrad, software developer and tech enthusiast. I like learning about low level oncepts, instruments and history behind it all. Here, and more often on my [blog](https://blog.ueuie.dev?from=github) I experiment, research, learn and tell others about devops, cyber security, monitoring, automation, ai, games and more.
 
